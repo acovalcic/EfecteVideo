@@ -56,4 +56,4 @@ Aplicatie ce permite aplicarea de efecte vizuale asupra unui clip video, precum:
 
 ### Albastru
 
-![gif](./md_res/blue.gif)s
+![gif](./md_res/blue.gif)
